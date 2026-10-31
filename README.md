@@ -82,8 +82,9 @@ graph.bfs("A");   // [A, B, C, D]
 
 ## Author
 
-**Jumana Albalushi**
-Software Engineer
+**Software Engineer:**
+Jumana Albalushi
+
 
 ## License
 
